@@ -1,20 +1,21 @@
 # Cours 2
 ## Présentation des liens
 
-### Lien 1 
-Expliquer pourquoi vous avez choisi ce lien. En quoi pourrait-il contribuer à votre démarche artistique? Pourquoi vous intéresse-t-il? Écrire 2 à 3 lignes par lien. 
+https://pacmusee.qc.ca/fr/expositions/detail/collecteur-de-memoires/
 
-### Lien 2 
-Expliquer pourquoi vous avez choisi ce lien.
+J'ai choisi ce lien, car cet expostion fait vivre au consommateur une expérience multisensorielle et reflexive dans des tunnels d'égouts. J'ai trouvé ceci inovateur et l'on peut faire une visite virtuelle avant d,aller le voir en personne.
 
-### Lien 3 
-Expliquer pourquoi vous avez choisi ce lien.  
+https://www.mtl.org/fr/quoi-faire/festivals-et-evenements/igloofest
 
-### Lien 4 
-Expliquer pourquoi vous avez choisi ce lien. 
+J'ai choisi le fameux igloofest de Montréal, puisque je suis déja et je l'ai vraiment apprécié pour sa beauté architecturale et scénographique.
 
-### Lien 5 
-Expliquer pourquoi vous avez choisi ce lien.  
+https://www.mtl.org/fr/quoi-faire/festivals-et-evenements/festival-meg-montreal
 
-## Publication sur Teams
-Publier un de ces liens et la raison pour laquelle vous l'avez sélectionné sur le Teams. Votre lien doit être unique! Assurez-vous qu'aucun étudiant n'ait déjà publié le même. 
+J'ai également choisi ce spectacle, puisque je peux relater de son expérience impressionante composer de spectacle de lumière, d'effets scénographiques et de musiques électroniques.
+
+https://www.metrometro.ca/ 
+Un autre spetacle dont j'ai adoré est le festival metro metro par Olivier Primeau présentant des stars du hip-hop mondial sur une scène immersive et rempli d'effets spéciaux donnant une expérience inoubliable a tous consommateur.
+
+https://forestalumina.com/en/
+
+ Forest illumina est une attraction dont j'aimerais grandement visité, elle comporte une fôret illuminé de la tête au pied suivi d'effets sonores ambiants sans compté les multiples effets spéciaux mis en place afin de donner une expérience immersive aux visiteurs.
