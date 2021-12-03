@@ -14,6 +14,7 @@ https://www.mtl.org/fr/quoi-faire/festivals-et-evenements/festival-meg-montreal
 J'ai également choisi ce spectacle, puisque je peux relater de son expérience impressionante composer de spectacle de lumière, d'effets scénographiques et de musiques électroniques.
 
 https://www.metrometro.ca/ 
+
 Un autre spetacle dont j'ai adoré est le festival metro metro par Olivier Primeau présentant des stars du hip-hop mondial sur une scène immersive et rempli d'effets spéciaux donnant une expérience inoubliable a tous consommateur.
 
 https://forestalumina.com/en/
