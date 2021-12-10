@@ -3,10 +3,12 @@
 Durée: 8 à 10 minutes
 
 ### Résumer votre projet en une phrase
-Résumer le projet en une phrase concise.   
+Jeux vidéo 2D/3D mobile style mario bros. 
 
 ### Description du projet 
-Décrivez les grandes lignes de votre projet. 
+Jeu gratuit mobile à haute définition.
+Histoire entrainante avec des décors ert interractions immersives.
+Effets sonore et musique ambiantes donnant un aspect plus intense au scène et mission du jeu.
 
 ### Schéma du projet ou scénarimage
 Expliquer le déroulement de votre expérience grâce à un schéma narratif ou à un scénarimage. 
