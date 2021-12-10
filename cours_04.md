@@ -2,13 +2,13 @@
 ## Plan de présentation
 
 ### Présentation
-Parlez de vous. 
+Je suis un ancien étudiant du collège lionel-groulx en science-humaine. J'ai déménagé à laval du côté de ma mère se qui ma amener à aux collège montmorency en plus de mon intérêtes pour ce programme de multimédia.
 
 ### Intérêts dans le domaine
-Parlez de vos intérêts en multimédia. 
+J'ai toujours eu des intérêts pour la technologie en générale, mais j'ai me suis jamais investie d'avantage jusqu'à ce jour. J'ai des intérêts pour les jeux vidéos et tout se qui se rapportte à la scène.
 
 ### Emplois qui vous intéressent
-Nommez deux emplois.
+
 
 ### Identification
 Nommez une entreprise et un artiste auxquels vous vous identifiez et expliquez pourquoi. 
