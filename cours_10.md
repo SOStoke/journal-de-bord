@@ -1,4 +1,5 @@
 # Cours 10
 ## Création de carte heuristique
 
-[Carte heuristique.pdf](https://github.com/SOStoke/journal-de-bord/files/7699858/Carte.heuristique.pdf)
+
+![Carte heuristique (1)-1](https://user-images.githubusercontent.com/89608165/145730499-c6a51ef7-3216-44fd-8fcf-45afaee222b6.png)
