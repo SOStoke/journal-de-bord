@@ -19,7 +19,7 @@ Effets sonore et musique ambiantes donnant un aspect plus intense au scène et m
 
 
 ### Technologies
-Décrivez quelles seront les technologies utilisées dans votre projet. 
+3D Builder, Photoshop, ADobe XD, Game Develop, Music Maker 
 
 ### Étapes de réalisation
 Quelles sont les étapes nécessaires à la réalisation de votre projet? Essayez de placer ces étapes dans un échéancier. 
