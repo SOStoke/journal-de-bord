@@ -23,7 +23,11 @@ Effets sonore et musique ambiantes donnant un aspect plus intense au scène et m
 
 ### Étapes de réalisation
 Évaluation: Évaluer les coûts et le temps et les ressources nécéssaires
+
 Concept: Conceptualiser le thème ainsi que les croquis préliminaires afin d'idéaliser l'univers du jeu
+
 Maquette: Commencer le développement du jeu sur tout ces aspects soit créatifs et techniques sous forme de scénario, storyboard, maquettes, prototypes et tout autres plans de fabrication ainsi qu'installation.
+
 Réalisation: Tout coordiner les éléments développer dans l'étape de la maquette afin de produire testés et ainsi validé le projet.
+
 Opération: S'occuper de la mise en marché du jeu et maintenir sa fonctionalité et sa bonne utilisation suivi par la clientèle.
